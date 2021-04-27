@@ -1,0 +1,10 @@
+body{
+    background-color: silver;
+    text-align: left;
+}
+input{
+    background-color: goldenrod;
+    word-spacing: 2px;
+    padding: 5px 6px;
+    margin: 6px 2px;
+}
